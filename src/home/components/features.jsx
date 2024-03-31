@@ -8,7 +8,7 @@ function Features() {
     <div className='section Features'>
       <span className='miniTextPrimed'>Our Featured</span>
       <div>
-      <span className='displaySolid'>TRANSFORM </span><span className='displayOutline'>YOUR BODY</span>
+      <span className='displaySolid'>HELLO WORLD </span><span className='displayOutline'>YOUR BODY</span>
       </div>
       <div>
       <span className='displayOutline'>TRANSFORM </span><span className='displaySolid'>YOUR LIFE</span>
